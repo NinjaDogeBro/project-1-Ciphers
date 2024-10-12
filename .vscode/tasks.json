@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "command": "gdb",
+            
+
+        }
+    ]
+}
